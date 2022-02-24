@@ -3,10 +3,9 @@ import Navbar from "components/Navbar";
 import Card from "components/Card";
 import gradients from "data/gradients.json";
 const HomePage = () => {
-  const title =
-    "NextGradients - #1 gradients for your next project, website or app.";
+  const title = "JAYTM - #1 home for your next project, website or app.";
   const description =
-    "Amazing css gradients that you can use in your projects, websites and apps.";
+    "Amazing css homes that you can use in your projects, websites and apps.";
   return (
     <div>
       <Head>
